@@ -1,0 +1,62 @@
+﻿@{
+    ViewBag.Title = "User Page";
+    var user = (ClinicAppointmentSystem.Models.User)Session["User"];
+    var nextBooking = ViewBag.NextBooking as ClinicAppointmentSystem.Models.BookingDetails;
+    var bookingDetails = ViewBag.BookingDetails as List<ClinicAppointmentSystem.Models.BookingDetails>;
+}
+
+<h2>Welcome, @user.Firstname @user.Lastname</h2>
+
+<p>
+    Your email: @user.EmailID <br />
+    Your role: @user.Role
+</p>
+
+@if (nextBooking != null)
+{
+    <h3>Your Next Booking:</h3>
+    <p>
+        <strong>Date:</strong> @nextBooking.BookingDate.ToShortDateString() <br />
+        <strong>Time:</strong> @nextBooking.BookingTime <br />
+        <strong>Purpose of Visit:</strong> @nextBooking.PurposeOfVisit <br />
+        <strong>Doctor Name:</strong> @nextBooking.DoctorName
+    </p>
+}
+else
+{
+    <p>You have no upcoming bookings.</p>
+}
+
+<h3>Your Booking Details:</h3>
+@if (bookingDetails != null && bookingDetails.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Booking ID</th>
+                <th>Booking Date</th>
+                <th>Booking Time</th>
+                <th>Purpose of Visit</th>
+                <th>Doctor Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var booking in bookingDetails)
+            {
+                <tr>
+                    <td>@booking.BookingID</td>
+                    <td>@booking.BookingDate.ToShortDateString()</td>
+                    <td>@booking.BookingTime</td>
+                    <td>@booking.PurposeOfVisit</td>
+                    <td>@booking.DoctorName</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>You have no bookings.</p>
+}
+
+<a href="@Url.Action("Logout", "Account")" class="btn btn-primary">Logout</a>

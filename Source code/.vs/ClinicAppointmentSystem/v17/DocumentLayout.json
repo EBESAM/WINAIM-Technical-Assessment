@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|c:\\users\\e.b.e.s.a.m s\\source\\repos\\clinicappointmentsystem\\clinicappointmentsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|solutionrelative:clinicappointmentsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|c:\\users\\e.b.e.s.a.m s\\source\\repos\\clinicappointmentsystem\\clinicappointmentsystem\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|solutionrelative:clinicappointmentsystem\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|c:\\users\\e.b.e.s.a.m s\\source\\repos\\clinicappointmentsystem\\clinicappointmentsystem\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|solutionrelative:clinicappointmentsystem\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|c:\\users\\e.b.e.s.a.m s\\source\\repos\\clinicappointmentsystem\\clinicappointmentsystem\\views\\userpage\\clinicview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|solutionrelative:clinicappointmentsystem\\views\\userpage\\clinicview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|c:\\users\\e.b.e.s.a.m s\\source\\repos\\clinicappointmentsystem\\clinicappointmentsystem\\dal\\clinicmgmtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|solutionrelative:clinicappointmentsystem\\dal\\clinicmgmtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|c:\\users\\e.b.e.s.a.m s\\source\\repos\\clinicappointmentsystem\\clinicappointmentsystem\\views\\userpage\\doctorview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|solutionrelative:clinicappointmentsystem\\views\\userpage\\doctorview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|c:\\users\\e.b.e.s.a.m s\\source\\repos\\clinicappointmentsystem\\clinicappointmentsystem\\controllers\\userpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|solutionrelative:clinicappointmentsystem\\controllers\\userpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|c:\\users\\e.b.e.s.a.m s\\source\\repos\\clinicappointmentsystem\\clinicappointmentsystem\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|solutionrelative:clinicappointmentsystem\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|c:\\users\\e.b.e.s.a.m s\\source\\repos\\clinicappointmentsystem\\clinicappointmentsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|solutionrelative:clinicappointmentsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|c:\\users\\e.b.e.s.a.m s\\source\\repos\\clinicappointmentsystem\\clinicappointmentsystem\\views\\userpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|solutionrelative:clinicappointmentsystem\\views\\userpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|c:\\users\\e.b.e.s.a.m s\\source\\repos\\clinicappointmentsystem\\clinicappointmentsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|solutionrelative:clinicappointmentsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|c:\\users\\e.b.e.s.a.m s\\source\\repos\\clinicappointmentsystem\\clinicappointmentsystem\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|solutionrelative:clinicappointmentsystem\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|c:\\users\\e.b.e.s.a.m s\\source\\repos\\clinicappointmentsystem\\clinicappointmentsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|solutionrelative:clinicappointmentsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|c:\\users\\e.b.e.s.a.m s\\source\\repos\\clinicappointmentsystem\\clinicappointmentsystem\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|solutionrelative:clinicappointmentsystem\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|c:\\users\\e.b.e.s.a.m s\\source\\repos\\clinicappointmentsystem\\clinicappointmentsystem\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E69647-8851-498C-B930-55270B30B98F}|ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj|solutionrelative:clinicappointmentsystem\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClinicView.cshtml",
+              "DocumentMoniker": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Views\\UserPage\\ClinicView.cshtml",
+              "RelativeDocumentMoniker": "ClinicAppointmentSystem\\Views\\UserPage\\ClinicView.cshtml",
+              "ToolTip": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Views\\UserPage\\ClinicView.cshtml",
+              "RelativeToolTip": "ClinicAppointmentSystem\\Views\\UserPage\\ClinicView.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T14:03:15.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserPageController.cs",
+              "DocumentMoniker": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Controllers\\UserPageController.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentSystem\\Controllers\\UserPageController.cs",
+              "ToolTip": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Controllers\\UserPageController.cs",
+              "RelativeToolTip": "ClinicAppointmentSystem\\Controllers\\UserPageController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAcwDsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:09:43.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentSystem\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ClinicAppointmentSystem\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:00:56.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClinicMgmtContext.cs",
+              "DocumentMoniker": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\DAL\\ClinicMgmtContext.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentSystem\\DAL\\ClinicMgmtContext.cs",
+              "ToolTip": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\DAL\\ClinicMgmtContext.cs",
+              "RelativeToolTip": "ClinicAppointmentSystem\\DAL\\ClinicMgmtContext.cs",
+              "ViewState": "AQIAAKYBAAAAAAAAAAAQwK8BAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:24:48.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Models\\Model.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentSystem\\Models\\Model.cs",
+              "ToolTip": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Models\\Model.cs",
+              "RelativeToolTip": "ClinicAppointmentSystem\\Models\\Model.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowGQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:27:07.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentSystem\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ClinicAppointmentSystem\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T11:59:16.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorView.cshtml",
+              "DocumentMoniker": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Views\\UserPage\\DoctorView.cshtml",
+              "RelativeDocumentMoniker": "ClinicAppointmentSystem\\Views\\UserPage\\DoctorView.cshtml",
+              "ToolTip": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Views\\UserPage\\DoctorView.cshtml",
+              "RelativeToolTip": "ClinicAppointmentSystem\\Views\\UserPage\\DoctorView.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T13:23:23.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentSystem\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ClinicAppointmentSystem\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:31:58.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ClinicAppointmentSystem\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ClinicAppointmentSystem\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAjwBMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T12:02:27.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Views\\UserPage\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicAppointmentSystem\\Views\\UserPage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Views\\UserPage\\Index.cshtml",
+              "RelativeToolTip": "ClinicAppointmentSystem\\Views\\UserPage\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T12:11:29.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ClinicAppointmentSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:08:56.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentSystem\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "ClinicAppointmentSystem\\Controllers\\BookingController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAIAwwDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:45:24.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Web.config",
+              "RelativeDocumentMoniker": "ClinicAppointmentSystem\\Web.config",
+              "ToolTip": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\Web.config",
+              "RelativeToolTip": "ClinicAppointmentSystem\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-29T06:39:34.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentSystem\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "ClinicAppointmentSystem\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:37:16.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentSystem\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\E.B.E.S.A.M S\\source\\repos\\ClinicAppointmentSystem\\ClinicAppointmentSystem\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ClinicAppointmentSystem\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T05:58:14.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
