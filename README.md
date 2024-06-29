@@ -2,8 +2,12 @@
 A Clinic Appointment System
 The Database folder consists of MySQL queries for a Clinic Appointment System with five sql files. Database folder's link is attached below,
 
-Database - https://github.com/EBESAM/WINAIM-Assessment/blob/main/Task%201%20-%20SQL/Creation.sql
+Database - https://github.com/EBESAM/WINAIM-Technical-Assessment/tree/main/Database
 
-The proof of work(screenshots) also being attached in the form of pdf. The link is attached (https://github.com/EBESAM/WINAIM-Assessment/blob/main/Proof%20of%20Work/WINAIM%20Sql%20Assessment%20PoW.pdf) with this path [Proof of Work/WINAIM Sql Assessment PoW.pdf]
+Database Document - https://github.com/EBESAM/WINAIM-Technical-Assessment/blob/main/Proof%20of%20Work/Database%20Document.pdf
 
-The Programming part i.e. the source code folder (https://github.com/EBESAM/WINAIM-Assessment/tree/main/Task%202%20-%20Programming) consists of program folders for a Clinic Appointment System with the functionalities of Login Interface with the login functionality for different roles such as User, Doctor and the Clinic User. It's proof of work(screenshots) also being attached in the form of pdf. The link is attached (https://github.com/EBESAM/WINAIM-Assessment/blob/main/Proof%20of%20Work/WINAIM%20Programming%20Assessment%20PoW.pdf) with this path [Proof of Work/WINAIM Programming Assessment PoW.pdf]
+API Document - https://github.com/EBESAM/WINAIM-Technical-Assessment/blob/main/Proof%20of%20Work/API%20Document.pdf
+
+Working Setup Document - https://github.com/EBESAM/WINAIM-Technical-Assessment/blob/main/Proof%20of%20Work/Working%20setup%20Document.pdf
+
+The Programming part i.e. the source code folder (https://github.com/EBESAM/WINAIM-Technical-Assessment/tree/main/Source%20code) consists of program folders for a Clinic Appointment System with the functionalities of Login Interface with the login functionality for different roles such as User, Doctor and the Clinic User. It's proof of work(screenshots) also being attached in the form of pdf.The proof of work(screenshots) also being attached in the form of pdf. The link is attached (https://github.com/EBESAM/WINAIM-Technical-Assessment/tree/main/Proof%20of%20Work) with this path [Proof of Work] 
